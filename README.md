@@ -36,37 +36,7 @@
 <h2>Algunos proyectos 👨🏻‍💻</h2>
 
 <table align="center">
-<tr border="none">
-  <td width="33%" align="center">
-    <a href="https://github.com/unsimpledev/MiChatGPT" title="Mi ChatGPT">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="Mi ChatGPT" />
-    </a>
-    <p>
-      <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </p>
-  </td>
-  
-  <td width="33%" align="center">
-    <a href="https://github.com/unsimpledev/MiTraductor" title="Mi Traductor">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="Mi Traductor" />
-    </a>
-    <p>
-      <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </p>
-  </td>
-  
-  <td width="33%" align="center">
-    <a href="https://github.com/unsimpledev/ProyectoSMSGateway" title="SMS Gateway">
-      <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="SMS Gateway" />
-    </a>
-    <p>
-      <a href="[https://www.youtube.com/@ArchAlex-31hf" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </p>
-  </td>
-</tr>
+<p>PROXIMAMENTE</p>
 </table>
 
 ---
